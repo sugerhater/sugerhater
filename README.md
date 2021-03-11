@@ -5,22 +5,14 @@
 - After I became a US citizen, I worked for Team Fishel for 6 months and then decided to enroll in an OSU full stack web developer boot camp to start my software developer career. I think I am one of the top students of the boot camp and ready for a web developing job. 
 
 ## Languages and technologies
+- HTML, CSS, Bootstrap, JavaScript, Jquery, Node.js, Express, MySQL,MongoDB,React.js
 
-## Languages and technologies 
-- HTML
-- Css 
-- Bootstrap
-- JavaScript and Es6 
-- jquery
-- Node.js 
-- Testing with Jest
-- Express
-- MySQL
-- mongoDB
-- mongoose
-- Indexed
-- React
+## Contact info📫
+- LinkedIn: <a href="https://www.linkedin.com/in/kehong-li-aa26b5136/" target="_blank">Kehong Li</a>
+- Website: <a href="https://www.ilikehong.com/" target="_blank">www.ilikehong.com | Portfolio</a>
+- Email: <a href="mailto:ilikehong@gmail.com" target="_blank">ilikehong@gmail</a>
 
+- ⚡ Fun fact: The address of my personnal page and email go as: I-Li-Kehong, which is I+{myLastName}+{myFirstName}, instead of I like hong. Some people even asked me, who is Hong?😅
 
 <!--
 **sugerhater/sugerhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,5 +25,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
