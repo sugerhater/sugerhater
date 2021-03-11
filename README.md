@@ -10,9 +10,9 @@
 ## Contact info📫
 - LinkedIn: <a href="https://www.linkedin.com/in/kehong-li-aa26b5136/" target="_blank">Kehong Li</a>
 - Website: <a href="https://www.ilikehong.com/" target="_blank">www.ilikehong.com | Portfolio</a>
-- Email: <a href="mailto:ilikehong@gmail.com" target="_blank">ilikehong@gmail</a>
+- Email: <a href="mailto:ilikehong@gmail.com" target="_blank">ilikehong@gmail.com</a>
 
-- ⚡ Fun fact: The address of my personnal page and email go as: I-Li-Kehong, which is I+{myLastName}+{myFirstName}, instead of I like hong. Some people even asked me, who is Hong?😅
+⚡ Fun fact: The address of my personnal page and email go as: I-Li-Kehong, which is I+{myLastName}+{myFirstName}, instead of I like hong. Some people even asked me, who is Hong?😅
 
 <!--
 **sugerhater/sugerhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
