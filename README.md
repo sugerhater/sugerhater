@@ -9,7 +9,7 @@
 
 ## Contact info📫
 - LinkedIn: <a href="https://www.linkedin.com/in/kehong-li-aa26b5136/" target="_blank">Kehong Li</a>
-- Website: <a href="https://www.ilikehong.com/" target="_blank">www.ilikehong.com | Portfolio</a>
+- Website: <a href="https://www.ilikehong.com/" target="_blank">https://www.ilikehong.com/react-portfolio/ | Portfolio</a>
 - Email: <a href="mailto:ilikehong@gmail.com" target="_blank">ilikehong@gmail.com</a>
 
 ⚡ Fun fact: The address of my personnal page and email go as: I-Li-Kehong, which is I+{myLastName}+{myFirstName}, instead of I like hong. People often wonder, who is Hong?😅
